@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/frontend/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/frontend/browser-storage-comparison</guid>
+    <title>LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/frontend/browser-storage-comparison</link>
+    <description>文章比较了多种浏览器存储技术，包括Cookies、LocalStorage、IndexedDB、OPFS和WASM-SQLite。它详细介绍了每种技术的历史、功能、性能和限制，并通过性能测试揭示了不同方法在Web应用程序中写入和读取数据的速度。文章还讨论了可能的改进和未来的技术发展方向。</description>
+    <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>frontend</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/frontend/client-cache</guid>
+    <title>Telegram Mini App 客户端缓存指南</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/frontend/client-cache</link>
+    <description>本文档全面介绍了客户端缓存的各种方法，包括内存缓存、Local Storage、Session Storage、IndexedDB 和 Cookies。每种方法详细说明了实现方式、优缺点及适用场景，并提供高级缓存技术如 Service Worker 和 API 响应缓存的实用案例，帮助开发者提升应用性能和用户体验。</description>
+    <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>frontend</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/frontend/javascript-function</guid>
+    <title>深入探讨 JavaScript 中的函数式编程</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/frontend/javascript-function</link>
+    <description>本文深入探讨了 JavaScript 中的函数式编程，重点介绍了纯函数、不变性、柯里化、记忆化和单子等概念。通过这些技术，开发者可以编写更加可预测、可维护和高效的代码。文章展示了如何通过这些概念协同工作，提升代码的可靠性、复用性和性能，是理解和应用函数式编程的重要指南。</description>
+    <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>frontend</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/frontend/javascript-trick</guid>
+    <title>JavaScript秘技：15个惊艳功能</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/frontend/javascript-trick</link>
+    <description>本博客介绍了 15 个 javascript 的小技巧，希望对你们有帮助🙂。</description>
+    <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>frontend</category><category>javascript</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/frontend/safe-assignment-operator</guid>
+    <title>安全赋值操作符</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/frontend/safe-assignment-operator</link>
+    <description>在 JavaScript 中引入安全赋值操作符 ?= 的提案引发了讨论。它通过 try/catch 机制简化错误处理，返回一个包含错误和结果的数组。此提案旨在减少显式 try/catch 块的使用，提高代码可读性。</description>
+    <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>frontend</category><category>javascript</category>
+  </item>
+
+    </channel>
+  </rss>
