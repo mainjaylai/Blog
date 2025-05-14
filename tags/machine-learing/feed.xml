@@ -1,0 +1,84 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Wed, 20 Mar 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/machine-learing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/D-PACK</guid>
+    <title>早期网络流量异常检测的无监督深度学习模型</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/D-PACK</link>
+    <description>本文提出了一种名为D-PACK的深度学习模型，结合CNN和无监督自动编码器，用于自动检测网络流量异常。通过早期检查前几个数据包，D-PACK在少量数据上实现了高准确性和低误报率。研究结果表明，这种方法对在线异常检测系统的未来发展具有启示意义。</description>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/Fingerprint-identification-survey</guid>
+    <title>流量指纹识别技术调研报告</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/Fingerprint-identification-survey</link>
+    <description>本文是对流量指纹识别技术的调研报告，主要介绍了流量指纹识别技术的基本概念、发展历程、技术原理、研究现状和未来发展方向。</description>
+    <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/dga_detection_using_cnn</guid>
+    <title>基于深度卷积神经网络的 DGA 检测</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/dga_detection_using_cnn</link>
+    <description>论文介绍了一种使用一维卷积神经网络(1D-CNN)来检测域名生成算法(DGA)的方法。研究在包含51个DGA恶意软件家族的数据集上进行评估,结果显示该方法能正确检测97%的DGA域名,误报率仅为0.7%。与LSTM网络相比,1D-CNN在检测性能和训练速度上都表现更好。但对于那些模仿正常域名特征的基于词的DGA,检测仍然具有挑战性。这项研究为DGA检测提供了一个高效可行的解决方案。</description>
+    <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/encrpyted-similarity</guid>
+    <title>加密流量相似性对比</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/encrpyted-similarity</link>
+    <description>本文综述了多种加密技术，包括基于局部敏感哈希（LSH）的相似性搜索和一维卷积神经网络（1D-CNN）的流量分类。这些方法在加密数据的相似性匹配和分类中展现了出色的性能和安全性，适用于多种应用场景。</description>
+    <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/feature-extraction</guid>
+    <title>网络流量分析与入侵检测：特征降维、深度学习与数据集评估</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/feature-extraction</link>
+    <description>本文综合探讨了网络流量分析和入侵检测的多个方面。首先介绍了使用朴素贝叶斯分类器和特征降维技术进行入侵检测的方法，包括CFS、IG、GR和FVBRM等特征选择算法。其次讨论了利用卷积神经网络进行恶意软件流量分类的创新方法，强调了表示学习的优势。最后对多个网络流量数据集进行了全面评估，从实时性、指纹提取效果和研究应用等方面进行了排序和分析，为相关研究提供了valuable insights。</description>
+    <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/fringerprint-identification-papers</guid>
+    <title>解密数字足迹:突破性网络流量指纹识别技术揭秘</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/fringerprint-identification-papers</link>
+    <description>本文深入探讨四种前沿网络流量指纹识别技术,涵盖从细粒度动态指纹提取到基于哈希的快速识别。我们剖析每种方法的核心理念、创新特点及潜在应用,为读者呈现网络安全领域的最新进展。无论您是安全专家还是技术爱好者,都能在此找到启发性的见解和实用的应用思路。</description>
+    <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/trajectory-dataset</guid>
+    <title>基于轨迹加权的混合离线强化学习数据集</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/trajectory-dataset</link>
+    <description>本文提出了一种基于轨迹加权的混合离线强化学习数据集，用于评估混合离线强化学习算法的性能。</description>
+    <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category>
+  </item>
+
+    </channel>
+  </rss>
