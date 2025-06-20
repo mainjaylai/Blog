@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Fri, 09 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/macos/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/mac-setup-guide</guid>
+    <title>MacBook高效配置指南：Brewfile、系统设置与Zsh插件</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/mac-setup-guide</link>
+    <description>本文详细介绍了如何高效设置新的MacBook，包括使用Brewfile批量安装应用程序和工具、通过defaults命令自定义系统设置以及配置实用的Zsh插件，帮助开发者快速打造个性化且高效的工作环境。</description>
+    <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>macos</category>
+  </item>
+
+    </channel>
+  </rss>
