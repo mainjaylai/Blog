@@ -1,0 +1,94 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Wed, 11 Dec 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/algorithm/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/algorithm/Aho–Corasick</guid>
+    <title>Aho-Corasick算法</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/algorithm/Aho–Corasick</link>
+    <description>Aho-Corasick 算法是一种高效的多模式字符串匹配算法，通过构建 Trie 和失败指针，实现快速匹配多个模式，广泛应用于文本过滤、生物信息学和网络安全等领域。</description>
+    <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/algorithm/B-Tree</guid>
+    <title>B树（B-Tree）详解 - 为什么每个数据库都在使用它</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/algorithm/B-Tree</link>
+    <description>B树是一种自平衡树数据结构，专为磁盘存储优化。与二叉搜索树不同，B树的每个节点可以有成百上千个子节点，这大大减少了树的深度，使得在磁盘上的查找效率显著提高。本文深入解析B树的设计原理、实现细节，以及为什么50多年来它一直是数据库索引的首选数据结构。</description>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>algorithm</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/algorithm/DifferenceArray</guid>
+    <title>差分数组</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/algorithm/DifferenceArray</link>
+    <description>差分数组是一种高效处理区间更新的数据结构，通过记录变化量实现快速更新。它将区间操作的时间复杂度从 O(n) 降低到 O(1)，适用于频繁更新的场景，如区间加法、乘法和赋值。</description>
+    <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/algorithm/Manacher</guid>
+    <title>Manacher算法</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/algorithm/Manacher</link>
+    <description>Manacher算法是一种高效的算法，用于在O(n)时间复杂度内找到字符串中最长的回文子串。通过预处理字符串和利用对称性，该算法能够快速更新和计算回文子串的长度，是解决回文问题的经典方法。</description>
+    <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/algorithm/SuffixArray</guid>
+    <title>后缀数组</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/algorithm/SuffixArray</link>
+    <description>后缀数组是一种高效的字符串处理数据结构，存储字符串所有后缀的字典序排序。它在字符串匹配、最长公共前缀计算和重复子串查找等问题中应用广泛。通过倍增算法构建，时间复杂度为 O(n log n)。</description>
+    <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/algorithm/Trie</guid>
+    <title>字典树（Trie）</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/algorithm/Trie</link>
+    <description>字典树（Trie）是一种高效的树形数据结构，用于存储和快速查找字符串集合。它通过共享公共前缀来节省空间，适用于自动补全、拼写检查和IP路由等场景。</description>
+    <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/algorithm/binary-indexed-tree</guid>
+    <title>树状数组（Binary Indexed Tree/Fenwick Tree）详解</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/algorithm/binary-indexed-tree</link>
+    <description>树状数组是一种高效的数据结构，用于处理前缀和查询和单点修改的问题。它通过二进制分段的方式，实现高效的修改和查询操作。相比线段树，它的实现更简单，常数更小，但功能相对受限。在实际应用中，如果问题可以用树状数组解决，它通常是比线段树更好的选择。</description>
+    <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>algorithm</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/algorithm/segment-tree</guid>
+    <title>线段树（Segment Tree）详解</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/algorithm/segment-tree</link>
+    <description>线段树是一种高效的数据结构，用于处理区间查询和修改操作。它通过将区间划分为多个小区间，并用树状结构管理这些区间的数据，从而在查询和修改操作之间取得了很好的平衡。</description>
+    <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>algorithm</category>
+  </item>
+
+    </channel>
+  </rss>

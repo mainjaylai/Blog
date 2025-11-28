@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Thu, 14 Nov 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/docker/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/docker/union-filesystem</guid>
+    <title>深入Docker内部原理 - 联合文件系统</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/docker/union-filesystem</link>
+    <description>Docker的联合文件系统（如OverlayFS）通过将多个只读镜像层和一个可写容器层合并为一个虚拟文件系统，实现了高效的资源共享和容器隔离。利用写时复制（CoW）技术，容器只在修改文件时复制数据，节省了存储和提高了性能。理解这些原理有助于优化Docker的使用，尤其是在性能和安全性方面。</description>
+    <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>docker</category><category>backend</category>
+  </item>
+
+    </channel>
+  </rss>

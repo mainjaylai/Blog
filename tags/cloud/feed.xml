@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Fri, 13 Jun 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/cloud/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/system/aws-vpc</guid>
+    <title>Amazon VPC图解指南：为什么它被称为云，如果它不是云？</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/system/aws-vpc</link>
+    <description>本文深入浅出地介绍了Amazon VPC（虚拟私有云）的工作原理和设计初衷。通过生动的图解和幽默的比喻，解释了为什么VPC是AWS基础架构的核心组件，以及它如何通过映射服务实现网络隔离和私有IP空间的管理，帮助用户构建安全、灵活的云基础设施。</description>
+    <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>system</category><category>cloud</category>
+  </item>
+
+    </channel>
+  </rss>

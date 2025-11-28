@@ -1,0 +1,74 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Fri, 13 Jun 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/system/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/system/aws-vpc</guid>
+    <title>Amazon VPC图解指南：为什么它被称为云，如果它不是云？</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/system/aws-vpc</link>
+    <description>本文深入浅出地介绍了Amazon VPC（虚拟私有云）的工作原理和设计初衷。通过生动的图解和幽默的比喻，解释了为什么VPC是AWS基础架构的核心组件，以及它如何通过映射服务实现网络隔离和私有IP空间的管理，帮助用户构建安全、灵活的云基础设施。</description>
+    <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>system</category><category>cloud</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/system/chat-system</guid>
+    <title>从零开始：如何设计一个现代化聊天系统</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/system/chat-system</link>
+    <description>博客介绍了一种可扩展且可靠的聊天系统架构，该架构支持一对一和小群聊，并有可能扩展到处理媒体文件。该系统采用客户端-服务器架构，由聊天服务器、Presence 服务器、推送通知服务器、键值存储和 API 服务器组成。它利用了 WebSocket、服务发现、消息传递、在线状态管理和推送通知等技术。该架构具有可扩展性、高可用性和易用性等优点，使其适用于各种规模的聊天应用程序。</description>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>system</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/system/design-system</guid>
+    <title>从零到百万用户的扩展之路</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/system/design-system</link>
+    <description>实现系统的可扩展性至数百万用户，关键在于保持Web层无状态、构建全方位冗余、有效缓存和分片数据层、支持多数据中心、利用CDN托管静态资产、采用微服务架构、监控系统并自动化操作。这些策略不仅提高性能和可靠性，还支持持续优化和应对新挑战，确保系统在不断增长的用户需求下保持高效运行。</description>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>system</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/system/diy-search-engine</guid>
+    <title>为什么需要自己构建搜索引擎？</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/system/diy-search-engine</link>
+    <description>本文介绍如何使用现有数据库构建一个简单而高效的搜索引擎。通过分词、索引和权重系统，实现一个不需要外部服务、易于理解和调试的搜索解决方案。</description>
+    <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>system</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/system/fair-queueing</guid>
+    <title>使用公平队列防止多租户服务中的吵闹邻居问题</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/system/fair-queueing</link>
+    <description>本文介绍了在多租户系统中使用公平队列来防止“吵闹邻居”问题，通过Broccoli队列系统实现，确保所有客户公平获得资源。</description>
+    <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>system</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/system/software-design-philosophy</guid>
+    <title>软件设计的哲学</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/system/software-design-philosophy</link>
+    <description>本书《软件设计的哲学》强调减少复杂性、适当拆分组件和简化异常处理的重要性。通过案例说明如何消除冗余逻辑、合理拆分功能并避免过多异常处理，提高代码的可维护性和简洁性。</description>
+    <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>system</category>
+  </item>
+
+    </channel>
+  </rss>
