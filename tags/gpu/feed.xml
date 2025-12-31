@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Fri, 05 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/gpu/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/ai/gpu-networking-basics</guid>
+    <title>GPU网络通信基础</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/ai/gpu-networking-basics</link>
+    <description>深入解析大规模AI训练中的GPU网络通信原理、架构设计与优化策略，包括Scale Out/Up方案、层次化交换机拓扑以及通信模式。</description>
+    <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>ai</category><category>gpu</category>
+  </item>
+
+    </channel>
+  </rss>

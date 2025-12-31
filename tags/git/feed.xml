@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Fri, 23 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/git/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/git-enhanced-configuration</guid>
+    <title>核心开发者的Git配置秘籍</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/git-enhanced-configuration</link>
+    <description>本文详细介绍了Git核心开发者常用但鲜为人知的Git配置选项，包括分支显示优化、差异对比增强、推送和拉取改进等。通过这些配置，你可以显著提升Git使用体验，减少常见错误，提高工作效率。文章将这些配置分为三类：明显改进体验的必备配置、无害且有时有用的配置，以及基于个人喜好的可选配置。</description>
+    <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>git</category>
+  </item>
+
+    </channel>
+  </rss>

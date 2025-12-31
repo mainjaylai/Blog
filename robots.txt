@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://blog.mainjay.cloudns.ch
+Sitemap: https://blog.mainjay.cloudns.ch/sitemap.xml

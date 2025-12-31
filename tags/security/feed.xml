@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Fri, 24 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/security/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/backend/oauth-illustrated-guide</guid>
+    <title>OAuth 图解指南：从零开始理解授权流程</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/backend/oauth-illustrated-guide</link>
+    <description>本文通过图解的方式详细介绍 OAuth 授权流程，从 OAuth 的诞生背景、工作原理、安全机制到实际应用，帮助你全面理解这一复杂但重要的授权标准。文章涵盖用户同意流程、授权码流程、客户端注册、前后端通道等核心概念。</description>
+    <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/modern-csrf-prevention</guid>
+    <title>Go 中预防 CSRF 的现代方法</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/modern-csrf-prevention</link>
+    <description>Go 1.25 引入了新的 http.CrossOriginProtection 中间件到标准库中，这让我们思考：是否已经到了可以在不依赖基于令牌的检查（如双重提交cookie）的情况下防止 CSRF 攻击的时候？是否可以在不引入第三方包的情况下构建安全的 Web 应用程序？答案可能是谨慎的&quot;是&quot;——只要满足几个重要条件。</description>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category><category>security</category>
+  </item>
+
+    </channel>
+  </rss>

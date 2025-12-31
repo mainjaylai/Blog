@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Fri, 05 Sep 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/ai/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/ai/gpu-networking-basics</guid>
+    <title>GPU网络通信基础</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/ai/gpu-networking-basics</link>
+    <description>深入解析大规模AI训练中的GPU网络通信原理、架构设计与优化策略，包括Scale Out/Up方案、层次化交换机拓扑以及通信模式。</description>
+    <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>ai</category><category>gpu</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/ai/llm-agent</guid>
+    <title>大型语言模型 (LLM) 与人工智能体 (Agent) 技术深度研究报告</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/ai/llm-agent</link>
+    <description>本报告系统梳理了 LLM 与 AI Agent 的核心概念、架构模块、工作流设计及选型评估，兼顾理论深度与实际应用示例。</description>
+    <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>ai</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/ai/prompt-caching</guid>
+    <title>提示缓存：10倍更便宜的 LLM Token，原理是什么？</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/ai/prompt-caching</link>
+    <description>深入解析 LLM 的提示缓存机制，了解 KV 缓存如何工作，为什么能节省成本并降低延迟，以及 OpenAI 和 Anthropic 不同的缓存策略。</description>
+    <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>ai</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/ai/tokenization-pipeline</guid>
+    <title>从文本到词元：分词管道的工作原理</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/ai/tokenization-pipeline</link>
+    <description>深入解析搜索引擎中的分词流程，了解文本如何经过大小写转换、字符折叠、分词、停用词过滤和词干提取等步骤，最终转化为可搜索的词元。</description>
+    <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>ai</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Sat, 03 Feb 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/diary/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/diary/2024-02-03</guid>
+    <title>随心记</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/diary/2024-02-03</link>
+    <description>随心记</description>
+    <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>diary</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/diary/2024-02-04</guid>
+    <title>随心记</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/diary/2024-02-04</link>
+    <description>随心记</description>
+    <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>diary</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/diary/2024-02-06</guid>
+    <title>随心记</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/diary/2024-02-06</link>
+    <description>随心记</description>
+    <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>diary</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/diary/2024-03-06</guid>
+    <title>随心记</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/diary/2024-03-06</link>
+    <description>随心记</description>
+    <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>diary</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/diary/2024-09-17</guid>
+    <title>领队随想</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/diary/2024-09-17</link>
+    <description>领队随想</description>
+    <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>diary</category>
+  </item>
+
+    </channel>
+  </rss>

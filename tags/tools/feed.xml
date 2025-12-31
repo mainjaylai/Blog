@@ -1,0 +1,124 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Fri, 09 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/tools/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/zip-bombs-server-protection</guid>
+    <title>使用Zip炸弹保护您的Web服务器免受恶意爬虫攻击</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/zip-bombs-server-protection</link>
+    <description>Zip炸弹是一种有效防御恶意爬虫的非常规方法，通过利用压缩原理，可以让恶意爬虫在解压时消耗大量资源而崩溃。本文详细介绍Zip炸弹的原理、实现方法以及在Web服务器防御中的应用，帮助您更好地保护您的服务器安全。</description>
+    <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category><category>tools</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/capture-traffic-tools</guid>
+    <title>网络协议流量捕获和压力测试工具比较</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/capture-traffic-tools</link>
+    <description>本文详细介绍了多种网络流量捕获和分析工具，包括scapy、tshark和tcpdump，比较了它们在捕获HTTP、DNS和ICMP协议流量时的性能和资源消耗。文章提供了每种工具的安装方法、使用脚本和命令行示例，以及如何测量CPU使用率和内存占用。此外，还介绍了ICMP协议的压力测试方法，包括使用ping、fping、hping和nping等工具。这些信息对网络管理员和开发人员进行网络分析、调试和性能评估非常有用。</description>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category><category>tools</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/cicflowmeter</guid>
+    <title>CICFlowMeter：强大的网络流量分析工具</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/cicflowmeter</link>
+    <description>CICFlowMeter 是一款功能强大的网络流量生成器和分析器，广泛应用于网络流量分析和网络安全研究。它能够生成双向流并计算大量网络流量特征，支持实时捕获和离线分析，为研究人员和安全专家提供了丰富的数据分析能力。</description>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/flow-collection-test</guid>
+    <title>网络协议性能测试与抓包工具比较分析</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/flow-collection-test</link>
+    <description>本文详细比较了Scapy、tcpdump和tshark三种抓包工具在HTTP、DNS和ICMP协议下的性能表现。通过JMeter、dnsperf和fping进行压力测试，分析了各工具的抓包数量、丢包率、资源占用等指标。结果显示，Scapy灵活但效率较低，适合小规模分析；tcpdump高效轻量，适合大规模捕获；tshark则在协议分析能力上表现出色。文章还针对不同场景给出了工具选择建议，为网络管理员和安全分析师提供了valuable insights。</description>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/git-enhanced-configuration</guid>
+    <title>核心开发者的Git配置秘籍</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/git-enhanced-configuration</link>
+    <description>本文详细介绍了Git核心开发者常用但鲜为人知的Git配置选项，包括分支显示优化、差异对比增强、推送和拉取改进等。通过这些配置，你可以显著提升Git使用体验，减少常见错误，提高工作效率。文章将这些配置分为三类：明显改进体验的必备配置、无害且有时有用的配置，以及基于个人喜好的可选配置。</description>
+    <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>git</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/guild-sdk</guid>
+    <title>解锁Web3社区力量：掌握Guild SDK，打造你的去中心化王国</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/guild-sdk</link>
+    <description>Guild SDK是构建去中心化自治组织(DAO)的强大工具。本教程带你深入了解SDK的核心功能，从安装到高级应用。无论你是区块链新手还是经验丰富的开发者，都能在这里找到构建下一代Web3社区的关键。</description>
+    <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/hack-email</guid>
+    <title>获取非加密邮件协议中的用户名和密码——安全风险演示</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/hack-email</link>
+    <description>本文演示了如何通过Python脚本和Wireshark工具获取非加密协议中的用户名和密码,揭示了使用非加密邮件协议的安全风险。文章强调了采用加密协议、启用双因素认证等安全措施的重要性,旨在提高读者的网络安全意识。</description>
+    <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/intrusion-detection-tools</guid>
+    <title>掌握网络侦察利器：深入解析5大操作系统指纹识别工具</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/intrusion-detection-tools</link>
+    <description>本文深入探讨了Nmap、RING、p0f、Ettercap和NetworkMiner五款强大的操作系统指纹识别工具。从安装步骤到使用方法，再到结果分析，文章全面介绍了这些工具的核心功能和应用场景，为网络安全专业人员提供了实用的指南。</description>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category><category>tools</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/mac-setup-guide</guid>
+    <title>MacBook高效配置指南：Brewfile、系统设置与Zsh插件</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/mac-setup-guide</link>
+    <description>本文详细介绍了如何高效设置新的MacBook，包括使用Brewfile批量安装应用程序和工具、通过defaults命令自定义系统设置以及配置实用的Zsh插件，帮助开发者快速打造个性化且高效的工作环境。</description>
+    <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>macos</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/n8n-introduction</guid>
+    <title>n8n 深度调研与 AI Agent 架构选型报告</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/n8n-introduction</link>
+    <description>本报告旨在对工作流自动化工具 n8n 进行深度调研，并在此基础上，探讨如何构建自定义 AI Agent 的最佳实践与架构选型。</description>
+    <pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/office-crack</guid>
+    <title>2024office官网正版下载</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/office-crack</link>
+    <description>本文介绍了如何在Windows系统上下载、解压、配置和安装Office部署工具，并激活Office许可证。通过详细步骤和图片说明，帮助用户顺利完成Office的安装和激活过程。</description>
+    <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,134 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Mon, 11 Nov 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/go/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/ThrottleX</guid>
+    <title>ThrottleX——高性能分布式限流库</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/ThrottleX</link>
+    <description>ThrottleX 是一个用 Go 语言实现的高性能分布式限流库，提供了三种主流限流算法的实现。该项目特别注重性能优化和分布式场景支持，可以轻松应对高并发环境下的限流需求。ThrottleX 根据定义的策略（如固定窗口、滑动窗口和令牌桶）限制可以到达后端（无论是 Web 服务器、API 等）的请求数量，从而管理请求流。</description>
+    <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/fuzzing-test</guid>
+    <title>Go语言 HTTP 服务模糊测试教程</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/fuzzing-test</link>
+    <description>Go语言的模糊测试（Fuzzing）是一种通过输入大量随机数据来发现程序潜在bug的自动化测试技术。Go 1.18后，它被加入标准库，使开发者能更容易地对HTTP服务和其他函数进行模糊测试。这种测试方法特别擅长发现那些在常规测试中难以发现的边界情况和异常问题。</description>
+    <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/go-context</guid>
+    <title>深入理解 Go 的 Context 包</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/go-context</link>
+    <description>Go 的 context 包提供了强大的工具，用于管理请求范围内的超时、取消和数据传递。通过函数如 WithCancel、WithTimeout 和 WithValue，开发者可高效处理并发任务和资源释放，是构建健壮程序的重要组件。</description>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/go-generate</guid>
+    <title>Go Generate 完全指南</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/go-generate</link>
+    <description>Go 的代码生成功能虽然简单，但非常强大和实用。通过 go generate 命令，我们可以实现自动化重复性代码的生成，实现类似泛型功能（在 Go 1.18 之前特别有用），生成高效的查找表和常量，自动化字符串表示的生成，集成各种代码生成工具。通过正确使用这些功能，我们可以大大提高 Go 开发的效率和代码质量。</description>
+    <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/go-memory-alignment-and-allocation</guid>
+    <title>深入理解 Go 的内存对齐与分配机制</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/go-memory-alignment-and-allocation</link>
+    <description>文章深入介绍了 Go 语言中的内存对齐与内存分配机制，从原理到实践结合示例，展示如何通过结构体字段优化、对象池使用等手段提升性能并减少内存浪费。</description>
+    <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/go-sql</guid>
+    <title>深入理解Go SQL内部机制</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/go-sql</link>
+    <description>这是一篇关于Go SQL内部机制的深度解析文章。文章详细探讨了预处理语句的工作原理、连接池的生命周期管理，以及实际生产环境中常见的问题和解决方案。同时提供了具体的客户端和服务器端配置建议，对于构建高性能Go数据库应用具有重要的参考价值。</description>
+    <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>database</category><category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/memory-ballast</guid>
+    <title>Go语言的内存镇流器</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/memory-ballast</link>
+    <description>我们通过引入内存镇流器减少了Go应用程序的垃圾回收（GC）周期频率，从而改善了API响应时间。这种做法允许堆在更大范围内增长，减少了GC辅助延迟，而镇流器的虚拟内存分配几乎不消耗实际RAM。相比调整GOGC值，使用镇流器更易于推理与管理。最后，深入分析性能瓶颈是提高应用效率的关键。</description>
+    <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/modern-csrf-prevention</guid>
+    <title>Go 中预防 CSRF 的现代方法</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/modern-csrf-prevention</link>
+    <description>Go 1.25 引入了新的 http.CrossOriginProtection 中间件到标准库中，这让我们思考：是否已经到了可以在不依赖基于令牌的检查（如双重提交cookie）的情况下防止 CSRF 攻击的时候？是否可以在不引入第三方包的情况下构建安全的 Web 应用程序？答案可能是谨慎的&quot;是&quot;——只要满足几个重要条件。</description>
+    <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category><category>security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/mux</guid>
+    <title>Go 1.22 中更优秀的 HTTP 服务器路由</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/mux</link>
+    <description>Go 1.22 将引入增强版 HTTP 路由多路复用器，提供更强大的路径匹配和方法路由能力。新的 ServeMux 支持通配符、方法限定和细粒度路由，有望减少对第三方路由库的依赖，为 Go Web 开发带来便利。</description>
+    <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/postgres-notifier</guid>
+    <title>基于 Postgres 的通知模式（Notifier Pattern）</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/postgres-notifier</link>
+    <description>Postgres 的 LISTEN/NOTIFY 功能通过通知器模式优化了连接管理，减少了每个程序需要的数据库连接数量，避免了为每个主题创建多个连接。通过使用缓冲通道和非阻塞发送，通知器能够高效处理大量通知。同时，结合上下文超时机制和“让它崩溃”策略，可以确保系统在出现问题时快速恢复。PgBouncer 的会话池模式支持 LISTEN，提高连接效率。</description>
+    <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category><category>database</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/redis-ratelimit</guid>
+    <title>使用Redis实现Golang API限流</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/redis-ratelimit</link>
+    <description>这篇文章介绍了如何使用Redis在Golang API中实现限流功能。通过Gin框架搭建HTTP服务器，利用go-redis/redis_rate包来追踪和限制每个IP地址的请求频率。文章通过实例代码展示了如何设置每分钟10次的请求限制，并详细说明了限流器的工作原理和实现方法。</description>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/go/why-go-error-handling-is-awesome</guid>
+    <title>为什么 Go 语言的错误处理如此出色</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/go/why-go-error-handling-is-awesome</link>
+    <description>Go 的 if err != nil 错误处理模式虽备受争议，却是其设计优势所在。通过将错误视为值，Go 迫使开发者显式处理错误情况，避免了隐藏的控制流，提供了清晰的错误传播链。这种方式虽看似繁琐，却让程序更可靠、透明、可预测，并赋予开发者对错误处理的完全控制权。</description>
+    <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>backend</category><category>go</category>
+  </item>
+
+    </channel>
+  </rss>

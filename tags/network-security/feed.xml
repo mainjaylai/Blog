@@ -1,0 +1,254 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>MainJayLai Blog</title>
+      <link>https://blog.mainjay.cloudns.ch/blog</link>
+      <description>A blog created with Next.js and Tailwind.css by MainJayLai</description>
+      <language>en-us</language>
+      <managingEditor>mainjaylai@outlook.com (MainJayLai)</managingEditor>
+      <webMaster>mainjaylai@outlook.com (MainJayLai)</webMaster>
+      <lastBuildDate>Mon, 24 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://blog.mainjay.cloudns.ch/tags/network-security/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/ATTCK</guid>
+    <title>ATT&amp;CK学习笔记</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/ATTCK</link>
+    <description>ATT&amp;CK的学习笔记</description>
+    <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/D-PACK</guid>
+    <title>早期网络流量异常检测的无监督深度学习模型</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/D-PACK</link>
+    <description>本文提出了一种名为D-PACK的深度学习模型，结合CNN和无监督自动编码器，用于自动检测网络流量异常。通过早期检查前几个数据包，D-PACK在少量数据上实现了高准确性和低误报率。研究结果表明，这种方法对在线异常检测系统的未来发展具有启示意义。</description>
+    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/Fingerprint-identification-survey</guid>
+    <title>流量指纹识别技术调研报告</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/Fingerprint-identification-survey</link>
+    <description>本文是对流量指纹识别技术的调研报告，主要介绍了流量指纹识别技术的基本概念、发展历程、技术原理、研究现状和未来发展方向。</description>
+    <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/dga_detection_using_cnn</guid>
+    <title>基于深度卷积神经网络的 DGA 检测</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/dga_detection_using_cnn</link>
+    <description>论文介绍了一种使用一维卷积神经网络(1D-CNN)来检测域名生成算法(DGA)的方法。研究在包含51个DGA恶意软件家族的数据集上进行评估,结果显示该方法能正确检测97%的DGA域名,误报率仅为0.7%。与LSTM网络相比,1D-CNN在检测性能和训练速度上都表现更好。但对于那些模仿正常域名特征的基于词的DGA,检测仍然具有挑战性。这项研究为DGA检测提供了一个高效可行的解决方案。</description>
+    <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/encrpyted-similarity</guid>
+    <title>加密流量相似性对比</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/encrpyted-similarity</link>
+    <description>本文综述了多种加密技术，包括基于局部敏感哈希（LSH）的相似性搜索和一维卷积神经网络（1D-CNN）的流量分类。这些方法在加密数据的相似性匹配和分类中展现了出色的性能和安全性，适用于多种应用场景。</description>
+    <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/feature-extraction</guid>
+    <title>网络流量分析与入侵检测：特征降维、深度学习与数据集评估</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/feature-extraction</link>
+    <description>本文综合探讨了网络流量分析和入侵检测的多个方面。首先介绍了使用朴素贝叶斯分类器和特征降维技术进行入侵检测的方法，包括CFS、IG、GR和FVBRM等特征选择算法。其次讨论了利用卷积神经网络进行恶意软件流量分类的创新方法，强调了表示学习的优势。最后对多个网络流量数据集进行了全面评估，从实时性、指纹提取效果和研究应用等方面进行了排序和分析，为相关研究提供了valuable insights。</description>
+    <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/paper/fringerprint-identification-papers</guid>
+    <title>解密数字足迹:突破性网络流量指纹识别技术揭秘</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/paper/fringerprint-identification-papers</link>
+    <description>本文深入探讨四种前沿网络流量指纹识别技术,涵盖从细粒度动态指纹提取到基于哈希的快速识别。我们剖析每种方法的核心理念、创新特点及潜在应用,为读者呈现网络安全领域的最新进展。无论您是安全专家还是技术爱好者,都能在此找到启发性的见解和实用的应用思路。</description>
+    <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>paper reading</category><category>machine learing</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/cybersecurity-dga</guid>
+    <title>网络安全：攻击者使用的域名生成算法（DGA）</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/cybersecurity-dga</link>
+    <description>域名生成算法（DGA）是网络攻击者用来生成大量域名以逃避检测的工具。它们通过复杂的算法生成域名，挑战传统安全措施。通过机器学习和大数据等技术，网络安全专家可以更有效地检测和阻止DGA驱动的威胁。</description>
+    <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/database-password</guid>
+    <title>如何安全地存储密码在数据库</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/database-password</link>
+    <description>安全存储密码需要三步：哈希将密码不可逆转为指纹，避免明文泄露；加盐为每个用户生成唯一盐，抵御彩虹表攻击；延展重复哈希多次，延缓暴力破解。结合 bcrypt 等算法，确保密码保护更安全高效，切勿直接存储明文密码。</description>
+    <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category><category>database</category><category>backend</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/demystifying-obfuscation-techniques-in-malware</guid>
+    <title>揭秘恶意软件中的代码混淆把戏：深入原理与实例</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/demystifying-obfuscation-techniques-in-malware</link>
+    <description>恶意软件开发者常利用代码混淆技术来规避检测、隐藏真实意图。本文将深入剖析常见的混淆手段，如字符串编码、动态代码执行、控制流平坦化等，并通过实例揭示其工作原理，帮助开发者和安全研究员更好地识别和防范这些威胁。</description>
+    <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/dga-battle</guid>
+    <title>域名生成算法的生死对决</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/dga-battle</link>
+    <description>域名生成算法（DGA）是恶意软件用于隐藏其命令和控制服务器位置的工具。安全研究人员通过逆向工程和机器学习方法努力识别和阻止这些DGA，双方在这场技术对抗中不断进化。</description>
+    <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/dga-research</guid>
+    <title>DGA 域名检测研究</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/dga-research</link>
+    <description>文章介绍了域名生成算法（DGA）域名检测的研究资源，包括数据集、DGA生成器、工具和模型。它强调了DGA域名在恶意软件中的应用及其检测的挑战，并提供了相关的开源项目和研究论文作为参考。</description>
+    <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/dns-tunneling-analysis</guid>
+    <title>DNS 隧道滥用扩展到跟踪和扫描受害者</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/dns-tunneling-analysis</link>
+    <description>DNS 隧道技术被攻击者滥用，不仅用于传统的C2通信，还用于跟踪和扫描受害者网络。通过编码IP地址和时间戳，攻击者能够发现并利用开放解析器的漏洞。防止此类攻击的关键在于限制解析器的服务范围并及时更新软件。</description>
+    <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/dns-tunnelling-malicious</guid>
+    <title>DNS 隧道：DNS 如何被恶意行为者滥用</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/dns-tunnelling-malicious</link>
+    <description>DNS隧道是一种利用DNS协议进行数据渗透和命令控制通信的技术。由于DNS的普遍性和开放性，恶意行为者可以通过创建隐蔽的通信渠道来绕过网络安全措施。防御措施包括监控异常DNS查询和加强系统安全。</description>
+    <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/doh-research</guid>
+    <title>DoH恶意流量检测研究</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/doh-research</link>
+    <description>DoH协议提升隐私安全，却为恶意流量提供掩护。检测方法包括统计分析与机器学习，CIRA-CIC-DoHBrw-2020数据集和DoHLyzer工具是研究核心。当前挑战涉及实时检测、数据多样性及隐私平衡。未来需优化模型、更新数据集并探索解释性AI，以应对恶意流量演变。</description>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/domain-generation-algorithms</guid>
+    <title>域名生成算法</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/domain-generation-algorithms</link>
+    <description>域名生成算法（DGA）是一种用于生成大量新域名的程序，网络犯罪分子利用它频繁更换攻击域名以避开检测。DGA通过伪随机数、字符或字典生成域名，帮助攻击者与命令和控制服务器保持联系。组织可通过更新软件、培训用户、使用URL过滤和DNS安全解决方案等措施检测和防御DGA。</description>
+    <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/encrypted-email-protocol</guid>
+    <title>加密流量中邮件协议的识别</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/encrypted-email-protocol</link>
+    <description>加密邮件协议（SMTP、POP3、IMAP）可通过特定端口号、SNI、服务器证书信息和流量模式来识别。SMTP 通常使用 465 或 587 端口，POP3 使用 995 端口，IMAP 使用 993 端口。分析 TLS 握手特征和证书的 Common Name 也有助于识别。这种识别对网络管理、安全分析和性能优化至关重要，能帮助更好地理解和管理网络通信。</description>
+    <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/what-is-doh</guid>
+    <title>DNS over HTTPS (DoH) 简介</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/what-is-doh</link>
+    <description>DNS over HTTPS (DoH) 是一种通过 HTTPS 协议加密 DNS 查询的技术，与传统明文 DNS 相比，它显著提升了用户隐私和安全性。DoH 能防止窃听、DNS 欺骗和中间人攻击，保护用户浏览习惯不被追踪。目前已被主流浏览器和操作系统广泛支持，成为互联网安全的重要进步。</description>
+    <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/security/zip-bombs-server-protection</guid>
+    <title>使用Zip炸弹保护您的Web服务器免受恶意爬虫攻击</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/security/zip-bombs-server-protection</link>
+    <description>Zip炸弹是一种有效防御恶意爬虫的非常规方法，通过利用压缩原理，可以让恶意爬虫在解压时消耗大量资源而崩溃。本文详细介绍Zip炸弹的原理、实现方法以及在Web服务器防御中的应用，帮助您更好地保护您的服务器安全。</description>
+    <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category><category>tools</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/capture-traffic-tools</guid>
+    <title>网络协议流量捕获和压力测试工具比较</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/capture-traffic-tools</link>
+    <description>本文详细介绍了多种网络流量捕获和分析工具，包括scapy、tshark和tcpdump，比较了它们在捕获HTTP、DNS和ICMP协议流量时的性能和资源消耗。文章提供了每种工具的安装方法、使用脚本和命令行示例，以及如何测量CPU使用率和内存占用。此外，还介绍了ICMP协议的压力测试方法，包括使用ping、fping、hping和nping等工具。这些信息对网络管理员和开发人员进行网络分析、调试和性能评估非常有用。</description>
+    <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category><category>tools</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/cicflowmeter</guid>
+    <title>CICFlowMeter：强大的网络流量分析工具</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/cicflowmeter</link>
+    <description>CICFlowMeter 是一款功能强大的网络流量生成器和分析器，广泛应用于网络流量分析和网络安全研究。它能够生成双向流并计算大量网络流量特征，支持实时捕获和离线分析，为研究人员和安全专家提供了丰富的数据分析能力。</description>
+    <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/flow-collection-test</guid>
+    <title>网络协议性能测试与抓包工具比较分析</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/flow-collection-test</link>
+    <description>本文详细比较了Scapy、tcpdump和tshark三种抓包工具在HTTP、DNS和ICMP协议下的性能表现。通过JMeter、dnsperf和fping进行压力测试，分析了各工具的抓包数量、丢包率、资源占用等指标。结果显示，Scapy灵活但效率较低，适合小规模分析；tcpdump高效轻量，适合大规模捕获；tshark则在协议分析能力上表现出色。文章还针对不同场景给出了工具选择建议，为网络管理员和安全分析师提供了valuable insights。</description>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/hack-email</guid>
+    <title>获取非加密邮件协议中的用户名和密码——安全风险演示</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/hack-email</link>
+    <description>本文演示了如何通过Python脚本和Wireshark工具获取非加密协议中的用户名和密码,揭示了使用非加密邮件协议的安全风险。文章强调了采用加密协议、启用双因素认证等安全措施的重要性,旨在提高读者的网络安全意识。</description>
+    <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>tools</category><category>network security</category>
+  </item>
+
+  <item>
+    <guid>https://blog.mainjay.cloudns.ch/blog/tools/intrusion-detection-tools</guid>
+    <title>掌握网络侦察利器：深入解析5大操作系统指纹识别工具</title>
+    <link>https://blog.mainjay.cloudns.ch/blog/tools/intrusion-detection-tools</link>
+    <description>本文深入探讨了Nmap、RING、p0f、Ettercap和NetworkMiner五款强大的操作系统指纹识别工具。从安装步骤到使用方法，再到结果分析，文章全面介绍了这些工具的核心功能和应用场景，为网络安全专业人员提供了实用的指南。</description>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+    <author>mainjaylai@outlook.com (MainJayLai)</author>
+    <category>network security</category><category>tools</category>
+  </item>
+
+    </channel>
+  </rss>
